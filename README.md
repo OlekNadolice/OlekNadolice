@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksander Cygan</h1>
-<h3 align="center">I’m looking for my first job as a junior frontend developer</h3>
+
 
 
   
